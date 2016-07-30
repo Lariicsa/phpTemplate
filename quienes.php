@@ -93,7 +93,18 @@
                     </div>
                     <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
                       <div class="panel-body">
-                        Yes, of course! We can prepare any diamond jewelry that you have in mind. Simply give us a call, toll-free 1-800-32-03-423. Also make sure that you have a .jpg photo of what you’re looking for and send it to us at <a href="#">guy@biggerdiamonds.com</a> Please also include your requested ring size (if it is a ring) as well as your requested diamond specifications including cut, carat, clarity and color.
+                        Centro Nacional de Cálculo (CeNac)<br>
+                                                        <strong>Jefa del Departamento de Desarrollo de Algoritmos y Sistemas Colaborativos</strong> Analizando y diseñando sistemas institucionales. Administrando los proyectos e implantando UML, como herramienta de modelado de los sistemas. Coordinando grupos de trabajo interdisciplinarios
+                                                        <br>
+                                                        <strong>Dirección de Capital Humano</strong> <br>
+                                                        Administrando y coordinando los sistemas de nóminas de funcionarios y pagos especiales, así como los sistemas de control y asignación de plazas, contables y, de Estructuras Educativas
+                                                         <hr>
+                                                        Grupo Elektra<br>
+                                                        <strong>Gerente de Análisis de requerimientos</strong> <br>
+                                                        Analizando y diseñando sistemas financieros, proponiendo soluciones de sistemas para las fábricas financieras del grupo. Administrando los proyectos, de acuerdo a las prioridades de la empresa y los recursos asignados. Utilizando UML y RUP.
+                                                        <br>
+                                                        <strong>Gerente de Pruebas </strong> <br>
+                                                        Diseñando matrices y casos de prueba para los sistemas de las fábricas financieras del grupo.
                       </div>
                     </div>
                   </div>
@@ -109,7 +120,35 @@
                     </div>
                     <div id="collapse3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading3">
                       <div class="panel-body">
-                        We offer speedy and reliable shipping, please allow 3 to 4 business days to receive your item after we ship it.
+                      CAPACITA-TIC<br>
+                                                      <strong>Socio Fundador</strong> <br>
+
+                                                      Asesorando y diseñando los trabajos sobre diseño instruccional y gráfico de una plataforma tecnológica para la impartición independiente de acciones formativas en modalidad no presencial.
+                                                      <hr>
+                                                       QUE BUEN LOOK Y TIENDAS CLUB<br>
+                                                      <strong>Socio Fundador</strong> <br>
+
+                                                      Asesorando en el diseño de sistemas para ventas a detalle, páginas de internet, control de inventarios y e-commerce
+                                                      <hr>
+                                                       DIRECCIÓN DE SERVICIOS ESTUDIANTILES (DSE)<br>
+                         
+                                                      Analizando y realizando los requerimientos con UML, para el sistema e-becas institucional de becas. Capacitando personal para utilizar el sistema SISMI, de organización médica
+                                                       <hr>
+
+                                                      AREX - TI<br>
+                                                      
+                                                      Analizando y realizando los requerimientos con UML, para el sistema BigOffic
+                                                      <br>
+                                                      <strong>Líder de proyectos </strong> <br>
+                                                      de desarrollo de proyectos de software con base en incubación tecnológica
+                                                       <hr>
+
+                                                       TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN<br>
+                                                      
+                                                      Analizando y realizando los requerimientos con UML, para el sistema BigOffic
+                                                      <br>
+
+                                                      Analizando y realizando los requerimientos del sistema de nómina
                       </div>
                     </div>
                   </div>
@@ -125,7 +164,10 @@
                       </div>
                       <div id="collapse4" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading4">
                         <div class="panel-body">
-                          Yes, of course. In fact, even if you are satisfied you can still send any item back to us for FULL REFUND with no question asked. We proudly offer our customers with an unconditional "no hassle - no questions asked” money-back guarantee if the return is made within 30 days of your purchase. All of our items come with a 100% guarantee and we refund the entire amount even if free shipping was given. We also do not charge any re-stocking fees. 
+                         <strong>Me gusta ...</strong><br>
+                                                         Conocer culturas, sociedades, viajar,
+                                                         mee gusta el voluntariado, leyendo en escuelas primarias y ocasionalmente atendiendo a personas de la tercera edad y colaborando con albergues de animales.<br>
+                                                         Disfruto leer, bailar y la música 
                         </div>
                       </div>
                     </div>

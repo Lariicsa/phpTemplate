@@ -2,9 +2,9 @@
 	$max_width = 100;
 	$max_height = 100;
 	$per_page = 9;
-	
+if (isset($_GET['page'])) {	
 	$page = $_GET['page'];
-	
+}
 	$has_previous = false;
 	$has_next = false;
 	
@@ -101,13 +101,14 @@
  require ('header.php')
 ?>
  <body id="rings">
+ <div class="opacity"></div>
 	<nav id="top" class="navbar navbar-default navbar-default" role="navigation">
 		<div class="container-fluid">
 			<div class="col-md-2 logo">
-				<a href="../yehuda/"><img src="imgs/logo1.png"></a>
-			</div>
-			<div class="col-md-2 col-md-offset-8 ringh1">
-				<h1>ring collection</h1>
+              <a href="../naciramendoza/"><img src="imgs/nazLogo.png"></a>
+            </div>
+			<div class="col-md-8 secTitle">
+				<h1>La biblioteca de Naz</h1>
 			</div>
 		</div>
 	</nav>

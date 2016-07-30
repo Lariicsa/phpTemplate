@@ -5,8 +5,8 @@
 	<nav id="top" class="navbar navbar-default navbar-default" role="navigation">
 		<div class="container-fluid">
       <div class="col-md-2 logo">
-        <a href="../yehuda/"><img src="imgs/logo1.png"></a>
-      </div>
+      <a href="../naciramendoza/"><img src="imgs/nazLogo.png"></a>
+    </div>
       <div class="col-md-8 how"><h3>HOW DO WE HAVE BIGGER DIAMONDS?</h3></div>
       <div class="col-md-2 edu">
         <h1>Education</h1>
