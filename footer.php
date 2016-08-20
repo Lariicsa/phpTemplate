@@ -1,14 +1,15 @@
 <div class="row ftr-mnu2">
 	<div class="container">
 		<ul>
-			<li><a href="faqs.php">Noticias</a></li>
 			<li><a href="contactUs.php">Contacto</a></li>
+			<li><a href="https://twitter.com/naciramp" target="_blank">Twitter</a></li>
 			<li class="facebook"><a href="#"></a></li>
 			<li class="twitter"><a href="#"></a></li>
 			<li class="youtube"><a href="#"></a></li>
 		</ul>
 		<div class="legal">2016 Nacira Mendoza Pinto ©</div>
 	</div>
+</div>
 </div>
 <script src="js/jquery-1.10.1.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>

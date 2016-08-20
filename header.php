@@ -16,3 +16,15 @@
 <link href='https://fonts.googleapis.com/css?family=Josefin+Sans:400,700' rel='stylesheet' type='text/css'>
 <link rel="shortcut icon" href="imgs/favicon.png" type="image/gif" />
 </head>
+<body>
+<div class="page">
+<nav id="top" class="navbar navbar-default navbar-default" role="navigation">
+		
+	<div class="container-fluid">
+		<div class="col-md-2 logo">
+			<a href="../naciramendoza/">
+				<img src="imgs/nazLogo.png">
+			</a>
+		</div>
+	</div>
+</nav>

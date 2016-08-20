@@ -1,15 +1,9 @@
 <?php 
  require ('header.php')
 ?>
-<body id="home">
-<div class="all-MainContent">
-<div class="container-fluid">
-		<div class="col-md-2 logo">
-			<a href="../naciramendoza/"><img src="imgs/nazLogo.png"></a>
-		</div>
-		<div class="col-md-10 col-md-offset-1 home-WelcomeText">
-			<h3>“El conocimiento si no se sabe explicar, es peor que la ignorancia” <br><span>-Naz</span></h3>
-		</div>
+<div id="home">
+<div class="col-md-10 col-md-offset-1 home-WelcomeText">
+	<h3>“El conocimiento si no se sabe aplicar, es peor que la ignorancia” <br><span>-Naz</span></h3>
 </div>
 
 <div class="col-md-10 col-md-offset-1 menuHome">
@@ -37,8 +31,8 @@
 	</li>
 	<li id="op5" class="col-md-2">
 		
-		<a id="ic5" href="contactUs.php">
-			Blog
+		<a id="ic5" href="biblioNaz.php">
+			Biblioteca Personal
 		</a>
 	</li>
 	<li id="op1" class="col-md-2">

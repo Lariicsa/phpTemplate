@@ -1,19 +1,11 @@
 <?php 
  require ('header.php')
 ?>
-<body id="whoiam">
-<div class="opacity"></div>
-	<nav id="top" class="navbar navbar-default navbar-default" role="navigation">
-        <div class="container-fluid">
-            <div class="col-md-2 logo">
-              <a href="../naciramendoza/"><img src="imgs/nazLogo.png"></a>
-            </div>
-            <div class="col-md-2 col-md-offset-8 secTitle">
-                <h1>¿Quién es Naz?</h1>
-            </div>
-        </div>
-    </nav>
-	<div id="lefaqs" class="container">
+
+<div id="me" class="container">
+  <div class="col-md-2 col-md-offset-8 secTitle">
+      <h2>¿Quién es Naz?</h2>
+  </div>
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
                

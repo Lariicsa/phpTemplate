@@ -1,19 +1,10 @@
 <?php 
  require ('header.php')
 ?>
-<body id="semblanza">
-<div class="opacity"></div>
-	<nav id="top" class="navbar navbar-default navbar-default" role="navigation">
-		<div class="container-fluid">
-			<div class="col-md-2 logo">
-				<a href="../naciramendoza/"><img src="imgs/nazLogo.png"></a>
-			</div>
-			<div class="col-md-2 col-md-offset-8 secTitle">
+<div id="me" class="container">
+	<div class="col-md-2 col-md-offset-8 secTitle">
 				<h1>Semblanza</h1>
 			</div>
-		</div>
-	</nav>
-	<div id="me" class="container">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
 				<p>

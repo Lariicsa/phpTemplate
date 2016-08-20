@@ -14,7 +14,6 @@ if (isset($_GET['page'])) {
 		global $page, $per_page, $has_previous, $has_next;
 		if ( $handle = opendir("./gal") ) {
 			$lightbox = rand();
-			//echo '<div class="row">';
 			
 			$count = 0;
 			$skip = $page * $per_page;
